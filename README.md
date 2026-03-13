@@ -4,6 +4,8 @@
 
 **Because of that, I chose to stop development and archive the repository.**
 
+Update: This repository has been archived to prevent pull requests.
+
 # roop for StableDiffusion
 
 This is an extension for StableDiffusion's [AUTOMATIC1111 web-ui](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) that allows face-replacement in images. It is based on [roop](https://github.com/s0md3v/roop) but will be developed seperately.
